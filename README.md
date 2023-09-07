@@ -1,8 +1,33 @@
-# React + Vite
+# Proyecto - Planificador de Gastos
+Realizado por: Leonardo Abraham Alonzo Martinez
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Curso- React - La Guía Completa: Hooks Context Redux MERN +15 Apps - Juan Pablo De la torre Valdez
 
-Currently, two official plugins are available:
+## Descripción
+Con este proyecto se pretende estudiar el funcionamiento de algunos hooks de React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+useState, useEffect, custom hooks 
+
+Se estudia la manera de hacer 
+
+*Peticiones API
+
+*Realizar style-components
+
+Link de la API de Criptomonedas
+https://min-api.cryptocompare.com/documentation
+
+Link del proyecto en Netlify: 
+
+
+## Como ejecutar el proyecto
+```
+npm install
+```
+```
+npm run dev
+```
+
+## Imagenes del proyecto
+![Image text]()
+
