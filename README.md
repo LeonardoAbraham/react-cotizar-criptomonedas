@@ -1,4 +1,4 @@
-# Proyecto - Planificador de Gastos
+# Proyecto - Cotizar Criptomonedas
 Realizado por: Leonardo Abraham Alonzo Martinez
 
 Curso- React - La Guía Completa: Hooks Context Redux MERN +15 Apps - Juan Pablo De la torre Valdez
