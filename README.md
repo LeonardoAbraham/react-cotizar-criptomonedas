@@ -29,5 +29,5 @@ npm run dev
 ```
 
 ## Imagenes del proyecto
-![Image text]()
+![Image text](https://github.com/LeonardoAbraham/react-cotizar-criptomonedas/blob/main/public/pantallaPrincipal.png)
 
