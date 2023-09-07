@@ -12,12 +12,12 @@ Se estudia la manera de hacer
 
 *Peticiones API
 
-*Realizar style-components
+*Realizar styled-components
 
 Link de la API de Criptomonedas
 https://min-api.cryptocompare.com/documentation
 
-Link del proyecto en Netlify: 
+Link del proyecto en Netlify: https://react-cotizar-criptomonedas-leonardo.netlify.app/
 
 
 ## Como ejecutar el proyecto
